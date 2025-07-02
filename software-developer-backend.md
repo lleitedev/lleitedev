@@ -13,7 +13,7 @@ Desenvolvedor de Software com foco em aplicações web escaláveis e arquitetura
 
 ## EXPERIÊNCIA  
 
-**Junior Software Engineer – Investmoney S.A.**  
+**Software Engineer – Investmoney S.A.**  
 _Jan/2025 – Atual_
 
 - Desenvolvimento de sistemas web escaláveis com **Next.js**, **React** e **Vue.js**.  
