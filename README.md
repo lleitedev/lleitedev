@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/lleitedev/lleitedev/blob/main/code.png" width="300"/>
+<img align="right" src="https://github.com/jdgabriel/jdgabriel/blob/main/code.png" width="300"/>
 
 # 👨‍💻 Hello, I'm Lucas Leite
 
