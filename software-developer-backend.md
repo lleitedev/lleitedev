@@ -1,51 +1,68 @@
-# Gabriel Duarte - Software Developer Backend
+# Lucas Leite – Software Engineer Full Stack
 
-📞 31 9 9899-0882 | 📧 [jds.gabrielduarte@gmail.com](mailto:jds.gabrielduarte@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jdsgabriel/) | 📄 [GitHub](https://github.com/jdgabriel)  
+📞 +55 41 98419-3653 | 📧 [lleitedev@gmail.com](mailto:lleitedev@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-leite-453688125) | 💻 [GitHub](https://github.com/lucasleite-dev)
 
 ---
 
 ## RESUMO  
-Desenvolvedor de Software com mais de 5 anos de experiência em backend, especializado em  Node.js, TypeScript e microsserviços. 
-Utilizando frameworks como NestJS, Express e  GraphQL.  
+
+Desenvolvedor de Software com foco em aplicações web escaláveis e arquitetura de microsserviços. Experiência com **Next.js**, **React**, **Node.js** e **TypeScript**. Domínio em ferramentas modernas como **Docker**, **Kubernetes**, **CI/CD**, **Tailwind CSS** e **OpenAI API** para automação.
 
 ---
 
 ## EXPERIÊNCIA  
 
-**Software Developer Backend - GlobalSys**  
-_Ago/2024 - Maio/2025_
+**Junior Software Engineer – Investmoney S.A.**  
+_Jan/2025 – Atual_
 
-- Mantive sistema de pós-venda para e-commerce e lojas físicas, atendendo 2k+ vendedores por dia.  
-- Arquitetura e desenvolvimento de app para centralizar comunicações, melhorando integração de webhooks e logs entre microsserviços.  
-- Criação de arquitetura de sistema de gestão de configurações, reduzindo a complexidade.  
+- Desenvolvimento de sistemas web escaláveis com **Next.js**, **React** e **Vue.js**.  
+- Construção de microsserviços com **Node.js** e **TypeScript**.  
+- Criação de pipelines CI/CD e práticas DevOps com **Docker**, **GitHub Actions** e **Kubernetes**.  
+- Integração de ferramentas de automação via **OpenAI API** para processos internos.  
 
-**Software Developer Full Stack - PSO Engenharia Elétrica**  
-_Mar/2021 - Ago/2024_  
+**Front-end Developer Intern – Polícia Científica do Paraná**  
+_Ago/2024 – Fev/2027_
 
-- Desenvolvi software para automatizar relatórios NR10, acelerando a entrega ao cliente.  
-- Liderei arquitetura e melhorias no sistema de monitoramento remoto (IoT), aumentando a estabilidade e eficiência.  
-- Criei sistema de gestão de tarefas com notificações, integrando com Google Agenda para alertas automáticos.  
-- Implantei pipeline de CI/CD, aumentando em 80% a frequência de entregas de novas funcionalidades.  
+- Desenvolvimento de interfaces responsivas com **React**, **Vue.js**, **HTML/CSS/JS**.  
+- Integração com APIs e desenvolvimento de funcionalidades para sistemas internos.  
+- Testes e correções para garantir a confiabilidade das aplicações.  
 
-**Software Developer Full Stack - Trocalike.com.br**  
-_Abr/2019 - Jan/2021_
+**Systems Development Intern – Tribunal de Contas do Estado de Roraima**  
+_Jun/2022 – Jul/2023_
 
-- Implementei infraestrutura na AWS com EC2, S3 e CloudFront, garantindo escalabilidade e alta disponibilidade.  
-- Desenvolvi pipeline de CI/CD, otimizando a entrega contínua para AWS S3.  
-- Arquitetei e mantive o banco de dados MongoDB, organizando dados com eficiência e consistência.  
-- Desenvolvimento fullstack do sistema, integrado com gateway de pagamento para automatizar transações.  
+- Construção de aplicações web com foco em performance e usabilidade.  
+- Utilização de **JavaScript**, **React**, **Vue.js**, **HTML/CSS**.  
+- Criação de funcionalidades, testes e integração entre front-end e back-end.
+
+**Infraestrutura e Suporte Técnico – Secretaria de Gestão Social de Boa Vista**  
+_Jan/2014 – Out/2017_
+
+- Gerenciamento de redes e servidores.  
+- Suporte técnico L2/L3 e implementação de melhorias em sistemas.
 
 ---
 
 ## HABILIDADES  
-### Principais
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,express,postgresql,mysql,graphql,aws,azure,docker,github)](https://skillicons.dev)<br/>
-Node.js, TypeScript, JavaScript, NestJS, Express, Fastify, PostgreSQL, MySQL, GraphQL, Docker, Kubernetes, GitHub Actions (CI/CD). 
 
-### Conhecimentos
-[![My Skills](https://skillicons.dev/icons?i=mongodb,aws,azure,kubernetes,rabbitmq,react,nextjs,tailwind,html,css)](https://skillicons.dev)<br/>
-MongoDB, AWS (EC2, S3, CloudFront), Azure, Kubernetes, RabbitMQ.<br/>
-React, NextJS, Tailwind, HTML e CSS
+### Principais  
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,graphql,prisma,postgres,docker,kubernetes,aws)](https://skillicons.dev)  
+Next.js, React, Node.js, TypeScript, GraphQL, Prisma, PostgreSQL, Docker, Kubernetes, GitHub Actions, AWS.
 
+### Complementares  
+[![My Skills](https://skillicons.dev/icons?i=vue,mysql,html,css,tailwind,openai,git)](https://skillicons.dev)  
+Vue.js, MySQL, Tailwind CSS, HTML, CSS, OpenAI API, Git, CI/CD, DevOps.
+
+---
+
+## EDUCAÇÃO  
+
+🎓 **Pontifícia Universidade Católica do Paraná (PUCPR)**  
+_Bacharelado em Análise e Desenvolvimento de Sistemas – Em andamento_
+
+---
+
+## CONTATO  
+
+📬 Aberto para oportunidades remotas ou híbridas em desenvolvimento web, com foco em performance, escalabilidade e inovação.
 
