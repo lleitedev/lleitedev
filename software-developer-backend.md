@@ -64,5 +64,5 @@ _Bacharelado em Análise e Desenvolvimento de Sistemas – Em andamento_
 
 ## CONTATO  
 
-📬 Aberto para oportunidades remotas ou híbridas em desenvolvimento web, com foco em performance, escalabilidade e inovação.
+📬 Aberto para oportunidades remotas ou híbridas, com foco em performance, escalabilidade e inovação.
 
