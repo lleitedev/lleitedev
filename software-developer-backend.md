@@ -1,7 +1,7 @@
 # Lucas Leite – Software Engineer Full Stack
 
 📞 +55 41 98419-3653 | 📧 [lleitedev@gmail.com](mailto:lleitedev@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/lucas-leite-453688125) | 💻 [GitHub](https://github.com/lucasleite-dev)
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-leite-453688125) | 💻 [GitHub](https://github.com/lleitedev)
 
 ---
 
